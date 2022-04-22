@@ -1,10 +1,7 @@
-# test-zerofox
-11/04/2022
-17:30hs
-repositorio para testear alerta zerofox 
+22/04/2022
+14:43hs
 test123@uala.com.ar
 password= "uala"
-12/04/22
 com.bancar
 Uala
 Ualá
